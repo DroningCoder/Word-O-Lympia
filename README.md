@@ -12,3 +12,5 @@
 * Trie Data Structure
 * Graph DFS
 * Text File Handling
+## Note:
+To run this program correctly, make sure dictionary.txt is present in the directory where you will save your cpp file.
