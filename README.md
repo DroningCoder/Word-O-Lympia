@@ -1,5 +1,5 @@
 # WORD-O-LYMPIA
-## About
+## About This Project:
 * **Word-O-Lympia** is an algorithm that searches for words in a grid of characters.
 * A Depth-First-Search (DFS) is used for this purpose.
 * It traverses all 8-directions for a position in the grid recursively while at the same time maintaining a **Trie Node pointer** to check if the word constructed so far is valid.
